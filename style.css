@@ -31,3 +31,10 @@
   align-items: center;
   margin-top: 20px;
 }
+h1 {
+  text-align: center;
+}
+button {
+  display: block;
+  margin: 0 auto;
+}
